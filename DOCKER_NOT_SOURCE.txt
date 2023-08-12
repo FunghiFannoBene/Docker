@@ -1,0 +1,7 @@
+Source Code: Docker images are binary packages, 
+so while they contain your application and all its dependencies, 
+they don't typically contain the source code in a form that's useful for continued development.
+If you want to work on the source code, you'd need access to the original source.
+This is why using a version control system (like Git) and keeping your code in repositories (like GitHub, GitLab, or Bitbucket)
+is crucial. 
+When you move to a new PC, you can clone your repository and have your entire codebase and commit history.
