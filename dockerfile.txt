@@ -24,8 +24,8 @@ CMD ["python", "your_script.py"]: Comando eseguito quando il container viene avv
   Qui, stiamo dicendo di eseguire your_script.py usando Python.
 Salva il file:
 
-Salva il file con il nome "Dockerfile" (senza estensioni come .txt) nella directory principale del tuo progetto. Assicurati che sia
-  nella stessa cartella dei file del tuo progetto e di requirements.txt.
+Salva il file con il nome "Dockerfile" (senza estensioni come .txt) nella directory principale del tuo progetto. 
+Assicurati che sia nella stessa cartella dei file del tuo progetto e di requirements.txt.
 Come utilizzare il Dockerfile:
 Apri un terminale o una shell:
 
